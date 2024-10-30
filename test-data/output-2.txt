@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO, fired from primary store
+SUCCESS   # <- torpedo, fired from secondary store

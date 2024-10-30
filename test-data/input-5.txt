@@ -1,0 +1,2 @@
+GT4500,1,0,1,0 #create a ship with 1-1 bullets
+TORPEDO,ALL # both torpedos should fire
