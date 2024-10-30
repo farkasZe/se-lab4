@@ -1,0 +1,3 @@
+GT4500,2,0,0,0 # Create a ship with two rockets in the primary 
+TORPEDO,SINGLE #should have fired from the primary store
+TORPEDO,SINGLE #should have fired from the primary store
